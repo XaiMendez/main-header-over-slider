@@ -1,0 +1,95 @@
+.pattern{
+    padding: 60px;
+    border: 1px solid #4CAF50;
+    background:blue;
+  
+}
+.custom-div{
+    padding:0px;
+    margin:0px;
+    background:white;
+}
+.custom-p{
+font-size:35px;
+padding:0px;
+margin:0px;
+}
+
+
+
+/* ea1f1ff*/
+.background {
+    height: 40em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+}
+
+.background > h4 {
+    color: #000;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.centered2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+.centered3 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ol, ul {
+    //margin-top: 0 ;
+     margin-bottom: 0px !important;
+}
+
+.container-custom {
+    position: relative;
+    text-align: center;
+    /* color: white; */
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.cid-qA4POvf3Gf .navbar-toggleable-sm .navbar-collapse {
+    justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    padding-right: 5rem;
+    width: auto;
+    padding-bottom: 10rem;
+}
+
+.cid-qA4POvf3Gf .menu-logo .navbar-brand {
+    display: flex;
+    margin-left: 5rem;
+    padding-bottom: 5rem !important;
+    transition: padding .2s;
+    min-height: 3.8rem;
+    align-items: center;
+}
